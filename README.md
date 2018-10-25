@@ -1,2 +1,5 @@
 # GDResource
-Resource
+
+## 描述
+
+存放自己的资源文件，以供其他地方连接
