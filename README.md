@@ -7,3 +7,4 @@
 ## Logo
 
 ![Logo](https://raw.githubusercontent.com/goldhan/GDResource/master/Logo/GoldKingLogo.png)
+![Logo_H](https://raw.githubusercontent.com/goldhan/GDResource/master/Logo/GoldKingLogo_h.png)
